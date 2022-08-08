@@ -1,0 +1,15 @@
+C:\DesignPatterns\DesignPatterns\proxy\bin\Debug\net6.0\proxy.exe
+C:\DesignPatterns\DesignPatterns\proxy\bin\Debug\net6.0\proxy.deps.json
+C:\DesignPatterns\DesignPatterns\proxy\bin\Debug\net6.0\proxy.runtimeconfig.json
+C:\DesignPatterns\DesignPatterns\proxy\bin\Debug\net6.0\proxy.dll
+C:\DesignPatterns\DesignPatterns\proxy\bin\Debug\net6.0\proxy.pdb
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.csproj.AssemblyReference.cache
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.AssemblyInfoInputs.cache
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.AssemblyInfo.cs
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.dll
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\refint\proxy.dll
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.pdb
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\proxy.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\proxy\obj\Debug\net6.0\ref\proxy.dll
