@@ -1,0 +1,15 @@
+C:\DesignPatterns\DesignPatterns\factorymethod\bin\Debug\net6.0\FactoryMethod.exe
+C:\DesignPatterns\DesignPatterns\factorymethod\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\DesignPatterns\DesignPatterns\factorymethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\DesignPatterns\DesignPatterns\factorymethod\bin\Debug\net6.0\FactoryMethod.dll
+C:\DesignPatterns\DesignPatterns\factorymethod\bin\Debug\net6.0\FactoryMethod.pdb
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.dll
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.pdb
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\factorymethod\obj\Debug\net6.0\ref\FactoryMethod.dll
