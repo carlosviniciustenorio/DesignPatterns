@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesignPatterns\\DesignPatterns\\prototype\\Prototype.csproj": {}
+    "C:\\DesignPatterns\\DesignPatterns\\Prototype\\Prototype.csproj": {}
   },
   "projects": {
-    "C:\\DesignPatterns\\DesignPatterns\\prototype\\Prototype.csproj": {
+    "C:\\DesignPatterns\\DesignPatterns\\Prototype\\Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesignPatterns\\DesignPatterns\\prototype\\Prototype.csproj",
+        "projectUniqueName": "C:\\DesignPatterns\\DesignPatterns\\Prototype\\Prototype.csproj",
         "projectName": "Prototype",
-        "projectPath": "C:\\DesignPatterns\\DesignPatterns\\prototype\\Prototype.csproj",
+        "projectPath": "C:\\DesignPatterns\\DesignPatterns\\Prototype\\Prototype.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\DesignPatterns\\DesignPatterns\\prototype\\obj\\",
+        "outputPath": "C:\\DesignPatterns\\DesignPatterns\\Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,7 @@
-﻿internal class Program
+﻿using System.Runtime.Serialization.Formatters.Binary;
+using System.Text.Json;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -68,14 +71,10 @@
 
         public object Clone()
         {
-            using(var memoryStream = new MemoryStream())
-            {
-                var binaryFormatter = new BinaryFormatter();
-                binaryFormatter.Serialize(memoryStream, this);
-                memoryStream.Position = 0;
+            var thisSerialize = JsonSerializer.Serialize(this);
 
-                return (CustomerWithPrototype)binaryFormatter.Deserialize(memoryStream);
-            }
+            return JsonSerializer.Deserialize<CustomerWithPrototype>(thisSerialize);
+            
         }
     }
     
