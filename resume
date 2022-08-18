@@ -7,7 +7,22 @@ Criacional
 
 Estruturais
     Decorator: envelopa um objeto para fornecer novos comportamentos;
-    Proxy: envelopa um objeto para controlar o acesso a ele;
+    Proxy: envelopa um objeto para controlar o acesso a ele. Sendo assim, duas aplicações não se comunicam diretamente e sim se comunicam com o proxy;
+            Ex: Rede de internet que não permite você se conectar com o Facebook
+
+            Smart: Adicionar funcionalidades extras que nem a aplicaçã real nem a aplicação cliente possuem.
+                Ex: Logs
+
+            Protection: Restringir ações do cliente. O Azure fornece isso nos bancos de dados e é um exemplo de Proxy
+            
+            Cache: Camada que define o que vai ser consultado de fato no banco de dados por questão de performance
+
+            Virtual: Simplificação do acesso a um recurso externo
+                        Ex: Criar uma biblioteca para facilitar o consumo de uma biblioteca externa complexa
+                        
+            Remote: Middleware para acessar recursos remotos.
+                        Ex: Acesso a um banco de dados utilizando bibliotecas, SQL Server no Startup.
+
     FlyWeigth: uma instancia de uma classe pode ser usada para fornecer muitas “instancias virtuais”;
     Facade: simplifica a "interface" de um conjunto de classes;
     Composite: Os clientes tratam as coleções de objetos e os objetos individuais de maneira uniforme;
