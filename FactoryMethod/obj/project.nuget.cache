@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gF3DBcg31JhVmIUw1q/Kt0i+aENju2k+BxcFHhoRDZz8Lzg/PnuMkfyevDt/Phw9QoCaKdbtztFeq7TgzXwFcw==",
+  "dgSpecHash": "GYb1PEClUU1c7NmNHvO61yR+nUpIR77G9Pcm1NoL61utzM1o61b8MqiIoZGuVhEvERHfK8Iw1C6JOkBO6nnNiA==",
   "success": true,
   "projectFilePath": "C:\\DesignPatterns\\DesignPatterns\\factorymethod\\FactoryMethod.csproj",
   "expectedPackageFiles": [],
