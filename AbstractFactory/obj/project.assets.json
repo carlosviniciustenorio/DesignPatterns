@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\DesignPatterns\\DesignPatterns\\abstractfactory\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "C:\\DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+      "projectPath": "C:\\DesignPatterns\\DesignPatterns\\abstractfactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\DesignPatterns\\DesignPatterns\\AbstractFactory\\obj\\",
+      "outputPath": "C:\\DesignPatterns\\DesignPatterns\\abstractfactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
