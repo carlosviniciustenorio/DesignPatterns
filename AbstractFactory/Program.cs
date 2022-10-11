@@ -27,7 +27,7 @@
 
     public interface UIFactory
     {
-        public Button CreateButton();
+        Button CreateButton();
     }
 
     public class Apple : UIFactory
